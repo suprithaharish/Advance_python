@@ -1,0 +1,5 @@
+Python is a popular programming language.
+It is easy to learn and widely used in software development.
+Python can be used for web development, data analysis, artificial intelligence, and automation.
+File handling is an important concept in Python.
+We can read data from a file and write data into another file using Python.
